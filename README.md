@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Paywand Mohammed</h1>
+<h1 align="left">Paywand Mohammed</h1>
 <h3 align="left">A Frontend Web Developer</h3>
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 - 🌱 I’m currently learning **Type Script**
