@@ -1,11 +1,11 @@
 <h1 align="left">Paywand Mohammed</h1>
 <h3 align="left">A Frontend Web Developer</h3>
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-- 🌱 I’m currently learning **Type Script**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - My Portfolio [https://paywandmohammed.netlify.app/](https://paywandmohammed.netlify.app/)
 
-- 💬 Ask me about **,TypeScript, React,Vue, Pinia,Redux, and ReduxToolkit**
+- 💬 Ask me about **,Ruby on Rails, React,,Redux, ReduxToolkit, Vue, Pinia and Typescript.
 
 - 📫 How to reach me **paywandmohammed007@gmail.com**
 
