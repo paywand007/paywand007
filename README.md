@@ -5,7 +5,7 @@
 
 - My Portfolio [https://paywandmohammed.netlify.app/](https://paywandmohammed.netlify.app/)
 
-- 💬 Ask me about **Ruby on Rails, React,Redux, ReduxToolkit, Vue, Pinia and Typescript.
+- 💬 Ask me about **Ruby on Rails, React,Vue and Typescript.
 
 - 📫 How to reach me **paywandmohammed007@gmail.com**
 
