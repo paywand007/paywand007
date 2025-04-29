@@ -3,8 +3,8 @@
 <img alt="Coder GIF" height="250" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🌍 Based in **Erbil, Iraq**  
-- 💼 Working as a **Cosmetic Call Agent** and **Software Developer**  
-- 💻 Currently building web applications with **Ruby on Rails (v5.2.8.1)** and **MySQL**  
+- 💼 Working as a **Software Developer**  
+- 💻 Currently building web applications with **Ruby on Rails** and **MySQL**  
 - 🔧 Also experienced with **React**, **Vue.js**, and **TypeScript**  
 - 📚 Recently deepening my knowledge in **DevOps**, **Automation**, and **Rails API development**  
 - 📑 I'm actively creating **PDF generators**, **cron jobs**, and **reporting systems** using Rails  
