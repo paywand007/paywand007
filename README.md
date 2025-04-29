@@ -1,5 +1,5 @@
 <h1 align="left">Paywand Mohammed</h1>
-<h3 align="left">A Full-Stack Software Developer | Ruby on Rails Enthusiast</h3>
+<h3 align="left">A Full-Stack Software Developer | Ruby on Rails </h3>
 <img alt="Coder GIF" height="250" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🌍 Based in **Erbil, Iraq**  
